@@ -51,3 +51,8 @@ The advantage of having a working system up and running in a matter of hours wil
    * Mobile Support
    * Invoicing & Tax Handling 
    * Handling Card Failure 
+
+Billing Simplified Model: 
+![alt text][billing-simplified]
+
+[billing-simplified]:  https://github.com/rajasoun/subscription-management/blob/master/Billing-Simplified.jpg
